@@ -13,7 +13,8 @@ public class Zmienne2 {
 
         Random losowa = new Random();
 
-        System.out.println("Witam w naszej grze. Program wylosuje dla Ciebie liczbę a Ty bedziesz musiał ja zgadnać");
+        System.out.println("Witam w naszej grze. Program wylosuje dla Ciebie liczbę " +
+                "w zakresie od 1 do 1000 a Ty bedziesz musiał ja zgadnać");
 
         System.out.println("Program losuje liczbę. Proszę czekać.");
 
